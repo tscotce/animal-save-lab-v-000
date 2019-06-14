@@ -21,7 +21,7 @@ html {
 /* Write your solution here */
 @media (min-width: 642px) and (max-width: 1090px) {
   #dolphin {position: relative;
-  top: 50px;
+  top: 0px;
   right: 100px;
   transform: rotate(300deg);
   }
