@@ -9,7 +9,7 @@ html {
 }
 
 /* Write your solution here */
-@media only mobile and (max-width: 800px) {
+@media only mobile and (min-width: 800px) {
   #ostrich {position: relative;
 bottom: 500px;
   }
