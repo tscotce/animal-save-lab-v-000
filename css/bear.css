@@ -10,3 +10,6 @@ html {
 
 /* Write your solution here */
 @media screen and (max-width: 992px)
+#bear {position: fixed;
+top: 100;
+right: 0;}
