@@ -9,7 +9,7 @@ html {
 }
 
 /* Write your solution here */
-@media mobile and (max-width: 800px) {
+@media screen and (max-width: 800px) {
   #ostrich {position: relative;
 top: -50px;
   }
