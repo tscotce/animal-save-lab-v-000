@@ -9,7 +9,7 @@ html {
 }
 
 /* Write your solution here */
-@media screen and (max-width: 992px)
+@media screen and (min-width: 992px) and (max-width: 1032px)
 {#bear {position: fixed;
 top: 100;
 right: 0;}}
