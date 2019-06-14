@@ -12,6 +12,5 @@ html {
 @media only mobile and (max-width: 800px) {
   #bear {position: relative;
 bottom: 500px;
-/*left: 800px;*/
   }
 }
