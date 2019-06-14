@@ -12,6 +12,6 @@ html {
 @media (min-width: 406px) and (max-width: 1170px) {
   #monkey {position: relative;
   top: 100px;
-  left: 120px;
+  left: 200px;
   }
 }
